@@ -2,7 +2,7 @@ doc-metrix-disk
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-Provides an API for doc-metrix [disk](https://github.com/doc-metrix/disk) performance metrics.
+> Provides an API for doc-metrix [disk](https://github.com/doc-metrix/disk) performance metrics.
 
 
 ## Installation
