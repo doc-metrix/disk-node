@@ -39,7 +39,9 @@
 
 	// SPECIFICATIONS //
 
-	var resources = {};
+	var resources = {
+			'disk': 'https://raw.githubusercontent.com/doc-metrix/disk/master/spec/index.json'
+		};
 
 
 	// VARIABLES //
