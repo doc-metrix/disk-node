@@ -1,6 +1,6 @@
 {
   "name": "doc-metrix-disk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides an API for doc-metrix disk performance metrics.",
   "author": {
     "name": "Athan Reines",
